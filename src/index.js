@@ -5,7 +5,8 @@ import hoistingButton from '../partials/hoisting-button';
 import tabs from '../partials/tabs';
 import buyModal from '../js/modal-buy';
 import tabFilter from '../js/tabs-filter';
-
+import addModal from '../partials/modal-forms';
+addModal()
 setHeader();
 setFooter();
 burgerMenu();
